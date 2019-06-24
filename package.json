@@ -18,6 +18,8 @@
   "homepage": "https://github.com/carlast22/marsRovers-tdd-js#readme",
   "devDependencies": {
     "chai": "^4.2.0",
+    "chance": "^1.0.18",
+    "mocha": "^6.1.4",
     "should": "^13.2.3",
     "sinon": "^7.3.2"
   }
